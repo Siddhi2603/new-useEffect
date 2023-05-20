@@ -57,7 +57,7 @@ amount : 1000,
   
   return(
     <div>
-    <h1> Hii.. I live in Pune</h1>
+    
          <Expenses item = {arrExpenses} itemName = {name} />
          
           </div>
